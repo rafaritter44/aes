@@ -11,7 +11,7 @@ repositories {
 dependencies {
 }
 
-mainClassName = 'com.github.rafaritter44.security.vigenere.cryptanalysis.VigenereCryptanalysis'
+mainClassName = 'com.github.rafaritter44.security.aes.AES'
 
 jar {
 	manifest {
